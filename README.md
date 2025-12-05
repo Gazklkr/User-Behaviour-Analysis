@@ -1,2 +1,2 @@
 # User-Behaviour-Analysis
-Class projrct, self cross-checked using MYSQL 
+Practice projrct, self cross-checked using MYSQL 
